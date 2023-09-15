@@ -4,7 +4,7 @@ This project uses machine learning to classify breast cancer tumors as malignant
 
 The project includes scripts for loading and preprocessing the data, selecting features, defining classifiers, training classifiers, evaluating classifiers, cross-validating classifiers, and visualizing evaluation metrics. The project also includes a `config.py` file that allows you to easily change the configuration variables for the project, such as file paths, hyperparameters, and other settings.
 
-**you can find the report of project** [here](reports/report.md)
+**you can find the report of project** [here](reports/README.md)
 
 
 
@@ -48,10 +48,6 @@ python src/main.py
 This will run the main script of the project, which will load the data, split it into training and test sets, select features, define classifiers, train classifiers, evaluate classifiers, cross-validate classifiers, and visualize evaluation metrics.
 
 You can modify the behavior of the script by changing the values of the configuration variables defined in the `config.py` file.
-
-
-
-*** notice: tests are not complete ***
 
 
 ## License
